@@ -35,3 +35,6 @@ Targeted marketing ad campaigns should be used to effectively target our 20% vit
 # Conclusion
 
 In conclusion, the analysis shows that the bank can take specific actions to reduce its churn rate by focusing on retaining established and long-term customers, and by targeting female and male graduates, both married and single, who are the most likely to churn. The use of SQL, Python, and Tableau was instrumental in generating meaningful business insights for the bank.
+
+
+Tableau Link -> https://public.tableau.com/app/profile/saad.bin.zubaeir/viz/CustomerChurnAnalysisDashboard_16805791461360/CustomerChurnDashboard?publish=yes
